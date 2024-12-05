@@ -21,7 +21,7 @@
             <td style="padding: 10px; border: 1px solid #dddddd;">Действует в течение 30 дней с момента регистрации.</td>
         </tr>
         <tr>
-            <td style="padding: 10px; border: 1px solid #dddddd;">Фриспины</td>
+            <td style="padding: 10px; border: 1px solid #dddddd;"><a href="https://1wqydy.top/casino/list?open=register&p=au2t&sub1=gh">Фриспины</a></td>
             <td style="padding: 10px; border: 1px solid #dddddd;">Получите 100 бесплатных вращений на популярных слотах, чтобы увеличить свои шансы на победу без дополнительных затрат.</td>
             <td style="padding: 10px; border: 1px solid #dddddd;">Фриспины начисляются сразу после активации промокода.</td>
             <td style="padding: 10px; border: 1px solid #dddddd;">Имеют срок действия 7 дней после получения.</td>
