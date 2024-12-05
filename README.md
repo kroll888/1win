@@ -1,6 +1,9 @@
 <h2>Промокод 1win: Бонусы и Предложения</h2>
 <p>Промокод 1win — это отличный способ увеличить свои шансы на успех и получить доступ к уникальным акциям при регистрации на платформе. Используя актуальный промокод, вы можете значительно увеличить свой начальный капитал и получить дополнительные бонусы. Давайте рассмотрим, какие именно преимущества доступны с промокодом 1win.</p>
 
+
+<a href="https://1wqydy.top/casino/list?open=register&p=au2t&sub1=gh"><img src="http://wpsolutions.ru/wp-content/uploads/2024/12/promis.jpg"></img></a>
+
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
     <thead>
         <tr style="background-color: #1e90ff; color: #ffffff;">
@@ -12,7 +15,7 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding: 10px; border: 1px solid #dddddd;">Бонус на первый депозит</td>
+            <td style="padding: 10px; border: 1px solid #dddddd;"><a href="https://1wqydy.top/casino/list?open=register&p=au2t&sub1=gh">Бонус на первый депозит</a></td>
             <td style="padding: 10px; border: 1px solid #dddddd;">Получите до 200% на ваш первый депозит, что значительно увеличивает стартовый капитал для игры.</td>
             <td style="padding: 10px; border: 1px solid #dddddd;">Внесите первый депозит и введите промокод при регистрации.</td>
             <td style="padding: 10px; border: 1px solid #dddddd;">Действует в течение 30 дней с момента регистрации.</td>
